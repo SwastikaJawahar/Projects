@@ -1,0 +1,12 @@
+Elude,It might get away from you
+Matey,Think Pirates.!
+Maize,It’s Central American cereal plant 
+Koala,Australian tree dwelling marsupial
+Sugar,ingredients found in most kitchen 
+Humor,usually put people in a good mood 
+Movie,Also known as motion picture
+Epoxy,kind of adhesive 
+Squad,group of players 
+Apron,popular kitchen garments 
+Buggy,small off road vehicle 
+Poise,graceful in person 
